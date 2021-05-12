@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @livathos
+- 👀 I’m interested in JavaScript
